@@ -22,7 +22,7 @@ VALUES
   ("Sony Playstation 4", "Video Games", 282.00, 10),
   ("Microsoft Xbox One S", "Video Games", 275.00, 15),
   ("Apple Iphone 11", "Tech", 700.00, 20),
-  ("2019 HP Pavillion Laptop", "Tech", 1,400.00, 25),
+  ("2019 HP Pavillion Laptop", "Tech", 1400.00, 25),
   ("Everyone Coconut and Lemon Lotion", "Personal Stuff", 18.68, 30),
   ("Neutrogena Norwegian Formula Lotion", "Personal Stuff", 14.99, 35),
   ("Miss Jessie's Multicultural Curls", "Personal Stuff", 15.00, 70),
