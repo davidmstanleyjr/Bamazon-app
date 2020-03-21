@@ -22,3 +22,18 @@ MySQL: https://www.npmjs.com/package/mysql
 4. From git bash run node bamazonCustomer.js. There will be a list of items to choose from. Type in your item and you can either purchase it or you will be told that it's no longer in stock.
 
 I hope you enjoy it. I had a great time creating it.
+
+![Screenshot 1](images/snip1.PNG)
+![Screenshot 2](images/snip2.PNG)
+![Screenshot 3](images/snip3.PNG)
+![Screenshot 4](images/snip4.PNG)
+![Screenshot 5](images/snip5.PNG)
+![Screenshot 6](images/snip6.PNG)
+![Screenshot 1](images/snip7.PNG)
+![Screenshot 1](images/snip8.PNG)
+
+
+
+
+
+
